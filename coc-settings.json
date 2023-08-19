@@ -1,0 +1,6 @@
+{
+  // idk what these lines were here for lol
+  // "snippets.ultisnips.pythonPrompt": false,
+  // "snippets.userSnippetDirectory" : "~/.config/nvim/snippets",
+  "inlayHint.enable": false
+}
